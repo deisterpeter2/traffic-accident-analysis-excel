@@ -97,6 +97,18 @@ Visualize the results using Excel Data Bars.
 - Driver Inattention/Distraction is the highest contributing factor but it is not the most dangerous.
 
 ---
+## Screenshots
+
+### Day-Hour Heatmap
+![Heatmap](images/Day-Hour-Heatmap.jpg)
+
+### Contributing_Factor_Bar_Chart
+![Bar-Chart](images/Contributing-Factor-Bar-Chart.jpg)
+
+### Seasonal Trend
+![Trend](images/Seasonal-Trend.jpg)
+
+---
 
 ## Skills Demonstrated
 
@@ -123,9 +135,9 @@ traffic-accident-analysis-excel/
 ├── README.md
 ├── NYC Traffic Accident Analysis.xlsx
 ├── images/
-│   ├── Seasonal_Trend.png
-│   ├── Day_Hour_Heatmap.png
-│   └── Contributing_Factor_Bar_Charg.png
+│   ├── Seasonal-Trend.png
+│   ├── Day-Hour-Heatmap.png
+│   └── Contributing-Factor-Bar-Chart.png
 
 ```
 
