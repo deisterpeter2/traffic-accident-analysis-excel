@@ -1,4 +1,4 @@
-# NYC Traffic Accident Analysis (Excel)
+# Traffic Accident Analysis (Excel)
 
 ## Project Overview
 
